@@ -1,5 +1,35 @@
 
 
+git config --global user.email 'merryround@nate.com'
+git config --global user.name 'Lee Seung Hyun'
 
 
-ddd
+
+
+git init 
+
+
+git add {file}
+git restore --stated {file}
+
+git commit -m 'message'
+
+git log --online --all
+
+
+
+
+
+
+
+
+
+
+
+
+
+git config --global diff.tool vscode
+git config --global diff.vscode.cmd 'code --wait --diff $LOCAL $REMOTE'
+
+
+
