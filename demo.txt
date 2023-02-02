@@ -18,18 +18,17 @@ git log --online --all
 
 
 
-
-
-
-
-
-
-
-
-
-
 git config --global diff.tool vscode
 git config --global diff.vscode.cmd 'code --wait --diff $LOCAL $REMOTE'
 
 
 
+
+
+
+
+
+
+
+
+git branch {name}
