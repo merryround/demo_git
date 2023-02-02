@@ -35,10 +35,8 @@ git switch master
 git merge {name}
 
 
-
-sdafasdf
-af
-as
-dfas
-dfassad
-
+213
+123
+123
+123
+123
