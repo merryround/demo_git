@@ -14,7 +14,7 @@ git restore --stated {file}
 
 git commit -m 'message'
 
-git log --online --all
+git log --online --all --graph
 
 
 
@@ -28,7 +28,10 @@ git config --global diff.vscode.cmd 'code --wait --diff $LOCAL $REMOTE'
 
 
 
-
-
-
 git branch {name}
+git switch {name}
+
+git switch master
+git merge {name}
+
+aaa
